@@ -1,6 +1,8 @@
 # 📊 Power BI SuperStore Sales Analytics Dashboard
 
-**Repository Name:** `powerbi-superstore-analytics`
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Pragadees15/powerbi-superstore-analytics)
+
+**Repository:** [powerbi-superstore-analytics](https://github.com/Pragadees15/powerbi-superstore-analytics)
 
 **Description:** A comprehensive Power BI analytics solution for analyzing SuperStore sales data with interactive dashboards, customer insights, payment behavior analysis, and machine learning predictions. Features multiple themed dashboards including a dark-themed version for enhanced visualization experience.
 
@@ -117,8 +119,8 @@ The **SuperStore Sales** dataset contains comprehensive retail sales information
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd "PowerBi Test"
+   git clone https://github.com/Pragadees15/powerbi-superstore-analytics.git
+   cd powerbi-superstore-analytics
    ```
 
 2. **Install Python dependencies**
@@ -197,7 +199,7 @@ Machine learning-powered sales forecasting and trend predictions for future plan
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request to the [repository](https://github.com/Pragadees15/powerbi-superstore-analytics).
 
 ## 📝 License
 
