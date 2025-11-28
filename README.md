@@ -43,6 +43,22 @@
 
 ---
 
+## 🌈 Experience Highlights
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>✨ Story-first Design</strong><br/>Curated flows, microcopy, and iconography keep stakeholders engaged.</td>
+      <td><strong>⚡ Instant Switch</strong><br/>Toggle between light and dark experiences without breaking context.</td>
+    </tr>
+    <tr>
+      <td><strong>🛰 Live Analytics</strong><br/>Semantic model + DAX measures keep KPIs trustworthy.</td>
+      <td><strong>🧩 Extendable</strong><br/>Build new personas, plug in new datasets, or wire more ML blocks.</td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🎯 Why This Project?
 - **Single source of truth** for sales, profit, retention, and payment insights.
 - **Decision-ready storytelling** powered by themed layouts (light + dark).
@@ -118,11 +134,52 @@ powerbi-superstore-analytics/
 
 ---
 
+## 🧭 Product Journey Map
+- [x] **Discover** — connect curated SuperStore dataset & semantic model.
+- [x] **Design** — tailor visuals, pick theme mood (Apple Modern / Dark Studio).
+- [x] **Predict** — run Python ML scripts for forecasting + scenario testing.
+- [ ] **Deploy** — publish to Power BI Service, set refresh, invite stakeholders.
+- [ ] **Evolve** — plug in new regions, channels, or growth experiments.
+
+---
+
 ## 🔍 Dashboard Deep Dive
-- **Main Sales Dashboard**: KPI wall, trend ribbon, profit waterfall, and per-order economics.
-- **Customer Insights**: Lifetime value lens, retention funnel, geo scatter, and top buyer league tables.
-- **Payment Behavior**: Payment mix donut, profitability treemap, adoption over time, online vs offline cards.
-- **ML Predictions**: Python visual hosting trained model output, forecast table, and “what-if” slicers for segments.
+
+<details>
+  <summary>1️⃣ Main Sales Dashboard — <em>Executive pulse in 10 seconds</em></summary>
+  <ul>
+    <li>KPI wall with delta indicators and spark badges.</li>
+    <li>Monthly velocity ribbon + profit waterfall for root-cause scans.</li>
+    <li>Segment trellis spotlighting high/low performers.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>2️⃣ Customer Insights — <em>Loyalty heat, geo resonance, CLV tiers</em></summary>
+  <ul>
+    <li>Retention funnel + lifetime value cards for marketing plans.</li>
+    <li>Geo-scatter overlays to surface micro-markets.</li>
+    <li>Top customers leaderboard with drill-through to order DNA.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>3️⃣ Payment Behavior — <em>Wallet share vs. profitability</em></summary>
+  <ul>
+    <li>Payment mix donut synced with treemaps + pivot for margin impact.</li>
+    <li>Digital vs offline motion line to track adoption campaigns.</li>
+    <li>Segment overlay to reveal friction points per persona.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>4️⃣ ML Predictions — <em>Guided forecast studio</em></summary>
+  <ul>
+    <li>Python visual renders custom-trained forecasting curves.</li>
+    <li>Forecast table with confidence bands and YOY lift.</li>
+    <li>Scenario slicers to stress-test segments, periods, and promo levers.</li>
+  </ul>
+</details>
 
 ---
 
