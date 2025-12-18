@@ -228,6 +228,7 @@ powerbi-superstore-analytics/
 | --- | --- |
 | <a href="https://github.com/Pragadees15"><img src="https://avatars.githubusercontent.com/Pragadees15" alt="Pragadees15" width="90" /></a><br/>[Pragadeeswaran K](https://github.com/Pragadees15) | Project lead, Power BI architecture, ML integration |
 | <a href="https://github.com/SHYAM140305"><img src="https://avatars.githubusercontent.com/SHYAM140305" alt="SHYAM140305" width="90" /></a><br/>[Shyam S](https://github.com/SHYAM140305) | Dashboard polishing, storytelling content |
+| <a href="https://github.com/hashprasheeth"><img src="https://avatars.githubusercontent.com/hashprasheeth" alt="hashprasheeth" width="90" /></a><br/>[Prasheth](https://github.com/hashprasheeth) | Dashboard enhancements & analytics experimentation |
 
 ---
 
